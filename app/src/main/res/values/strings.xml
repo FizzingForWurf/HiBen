@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NavDrawerTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="splash">iTrans</string>
+    <string name="splashDescription">Better commuting</string>
+
+    <string name="menuBookmark">Bookmarks</string>
+    <string name="menuSettings">Settings</string>
+    <string name="menuAbout">About us</string>
+    <string name="menuContact">Contact us</string>
+    <string name="menuHeader">Welcome to iTrans!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_destination">AddDestination</string>
+    <string name="title_activity_nearby_bus_stops">NearbyBusStops</string>
+</resources>
